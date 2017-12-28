@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: sign-in-program
+  cloud:
+    config:
+      uri: http://ec2-52-80-135-55.cn-north-1.compute.amazonaws.com.cn:8888
